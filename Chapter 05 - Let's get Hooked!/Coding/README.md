@@ -12,3 +12,48 @@
 - Create a `Search Box` in your App.
 - Use `useState` to create a variable and `bind` it to the input box.
 - Try to make your `search bar work`.
+  '
+
+# Namaste Food
+
+/\*\*\*\*
+
+- Header Section
+
+* Logo
+* Nav Items
+
+- Body
+
+* Search
+* Restaurant Container
+  - Restaurent Card
+    - Img
+    - Name of the restaurant,star rating,deliverytime,etc...
+
+- Footer Section
+
+* Copyrights
+* License
+* Links
+* Contact Information
+* Address Information
+  \*/
+
+Two types of export/import
+
+- Default Export/Import
+
+1. export default Component;
+   import Component from "path";
+
+- Named Export/Import
+
+2. export const Component;
+   import {Component} from "path";
+
+# React Hooks
+
+- Normal JS Utility function's
+- useState()
+- useEffect()
